@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ComPortConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <enabled>false</enabled>
+  <portName />
+  <baudRate>9600</baudRate>
+  <dataBits>8</dataBits>
+  <parity>None</parity>
+  <stopBits>1</stopBits>
+  <handShake>None</handShake>
+  <encoding>Default</encoding>
+  <serialMode>1</serialMode>
+  <serialID>0</serialID>
+  <rcvPortno>50002</rcvPortno>
+  <ipAddress>127.0.0.1</ipAddress>
+  <portNo>50001</portNo>
+  <checkSum>false</checkSum>
+  <acknac>false</acknac>
+</ComPortConfig>

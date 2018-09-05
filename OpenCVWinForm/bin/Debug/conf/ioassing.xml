@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<IO_AssignSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelName_A />
+  <btnName_A />
+  <keyCode_A>F1</keyCode_A>
+  <portNo_A>0</portNo_A>
+  <modelName_B />
+  <btnName_B />
+  <keyCode_B>F2</keyCode_B>
+  <portNo_B>1</portNo_B>
+  <modelName_C />
+  <btnName_C />
+  <keyCode_C>F3</keyCode_C>
+  <portNo_C>2</portNo_C>
+  <modelName_D />
+  <btnName_D />
+  <keyCode_D>F4</keyCode_D>
+  <portNo_D>3</portNo_D>
+  <modelName_E />
+  <btnName_E />
+  <keyCode_E>F5</keyCode_E>
+  <portNo_E>4</portNo_E>
+  <modelName_F />
+  <btnName_F />
+  <keyCode_F>F6</keyCode_F>
+  <portNo_F>5</portNo_F>
+  <modelName_G />
+  <btnName_G />
+  <keyCode_G>F7</keyCode_G>
+  <portNo_G>6</portNo_G>
+  <modelName_H />
+  <btnName_H />
+  <keyCode_H>F8</keyCode_H>
+  <portNo_H>7</portNo_H>
+  <modelName_I />
+  <btnName_I />
+  <keyCode_I>F9</keyCode_I>
+  <portNo_I>8</portNo_I>
+  <modelName_J />
+  <btnName_J />
+  <keyCode_J>F10</keyCode_J>
+  <portNo_J>9</portNo_J>
+  <modelName_K />
+  <btnName_K />
+  <keyCode_K>F11</keyCode_K>
+  <portNo_K>10</portNo_K>
+  <modelName_L />
+  <btnName_L />
+  <keyCode_L>F12</keyCode_L>
+  <portNo_L>11</portNo_L>
+  <modelName_M />
+  <btnName_M />
+  <keyCode_M>F13</keyCode_M>
+  <portNo_M>12</portNo_M>
+  <modelName_N />
+  <btnName_N />
+  <keyCode_N>F14</keyCode_N>
+  <portNo_N>13</portNo_N>
+  <modelName_O />
+  <btnName_O />
+  <keyCode_O>F15</keyCode_O>
+  <portNo_O>14</portNo_O>
+</IO_AssignSetting>

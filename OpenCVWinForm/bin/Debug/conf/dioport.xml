@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<DioPortAssign xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dioDeviceName>DIO000</dioDeviceName>
+  <dioModelName>DIO-0808LY-USB</dioModelName>
+  <digitalFilter>-1</digitalFilter>
+  <dioEnable>false</dioEnable>
+  <dioInterval>1</dioInterval>
+  <resetEnable>false</resetEnable>
+  <resetPortNo>0</resetPortNo>
+  <restEdge>0</restEdge>
+  <triggerEnable>true</triggerEnable>
+  <triggerPortNo>1</triggerPortNo>
+  <triggerEdge>0</triggerEdge>
+  <dataEnable>true</dataEnable>
+  <dataPortNo>2</dataPortNo>
+  <dataEdge>0</dataEdge>
+  <busyEnable>false</busyEnable>
+  <busyPortNo>0</busyPortNo>
+  <busyActiveStatus>0</busyActiveStatus>
+  <okEnable>false</okEnable>
+  <okPortNo>1</okPortNo>
+  <okActiveStatus>0</okActiveStatus>
+  <ngEnable>false</ngEnable>
+  <ngPortNo>2</ngPortNo>
+  <ngActiveStatus>0</ngActiveStatus>
+  <ledLight1Enable>false</ledLight1Enable>
+  <ledLight1PortNo>3</ledLight1PortNo>
+  <ledLight1ActiveStatus>0</ledLight1ActiveStatus>
+  <ledLight2Enable>false</ledLight2Enable>
+  <ledLight2PortNo>4</ledLight2PortNo>
+  <ledLight2ActiveStatus>0</ledLight2ActiveStatus>
+  <triggerDelay>0</triggerDelay>
+</DioPortAssign>

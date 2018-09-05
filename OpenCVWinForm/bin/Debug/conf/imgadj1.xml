@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ImageAdjust xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <imageOffsetMode>1</imageOffsetMode>
+  <imageSeachOffsetX>100</imageSeachOffsetX>
+  <imageSeachOffsetY>100</imageSeachOffsetY>
+  <imageOffsetAngle>0</imageOffsetAngle>
+  <imageOffsetScale>1</imageOffsetScale>
+  <imageLocationOffsetX>0</imageLocationOffsetX>
+  <imageLocationOffsetY>0</imageLocationOffsetY>
+  <imageContrastEnabled>true</imageContrastEnabled>
+  <imageContrastCoef>5</imageContrastCoef>
+  <imageSmoothEnabled>true</imageSmoothEnabled>
+  <imageSmoothType>3</imageSmoothType>
+  <imageSmoothParam1>3</imageSmoothParam1>
+  <imageSmoothParam2>3</imageSmoothParam2>
+  <imageSmoothParam3>3</imageSmoothParam3>
+  <imageSmoothParam4>3</imageSmoothParam4>
+  <imageUnsharpEnabled>true</imageUnsharpEnabled>
+  <imageUnsharpMask>1</imageUnsharpMask>
+  <imageBilateralEnabled>true</imageBilateralEnabled>
+  <imageBilateralParam1>3</imageBilateralParam1>
+  <imageBilateralParam2>20</imageBilateralParam2>
+  <imageBilateralParam3>1</imageBilateralParam3>
+  <autoSave>false</autoSave>
+  <maxLatestImgSave>100</maxLatestImgSave>
+  <maxNgImgSave>100</maxNgImgSave>
+  <maxLogFile>365</maxLogFile>
+  <maxRefImgSave>100</maxRefImgSave>
+  <autoCsvSave>false</autoCsvSave>
+  <maxCsvCnt>10</maxCsvCnt>
+  <maxCsvFile>10</maxCsvFile>
+  <autoPrint>false</autoPrint>
+  <printErrOnry>false</printErrOnry>
+  <imageTeachOffsetX>0</imageTeachOffsetX>
+  <imageTeachOffsetY>0</imageTeachOffsetY>
+  <imageOffsetScore>0</imageOffsetScore>
+  <imageSavePath>D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\image</imageSavePath>
+  <csvSavePath>D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\data\csv\</csvSavePath>
+  <logSavePath>D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\log</logSavePath>
+  <modelSavePath>D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\model\</modelSavePath>
+  <soundType>0</soundType>
+  <monFolderPath>D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\watch\</monFolderPath>
+  <monFileExtension>BITMAP</monFileExtension>
+  <bcdEnabled>false</bcdEnabled>
+  <bcdLock>false</bcdLock>
+  <bcdTrigger>false</bcdTrigger>
+  <language>English</language>
+  <soundPass>true</soundPass>
+  <soundNg>true</soundNg>
+  <version>127</version>
+</ImageAdjust>

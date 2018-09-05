@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<CameraSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <exposureMode>0</exposureMode>
+  <exposureTime>30000</exposureTime>
+  <gainMode>0</gainMode>
+  <gain>0</gain>
+  <whiteLevelMode>0</whiteLevelMode>
+  <whiteLevel>1.45</whiteLevel>
+  <blackLevel>0</blackLevel>
+  <gamma>1</gamma>
+  <packetSize>1500</packetSize>
+  <deviceName>acA2500-14uc</deviceName>
+  <serialNumber>21778072</serialNumber>
+  <fullsize>false</fullsize>
+  <capSize>2</capSize>
+  <capWidth>2590</capWidth>
+  <capHeight>1942</capHeight>
+  <capX>0</capX>
+  <capY>0</capY>
+  <mode>9</mode>
+  <widthMax>2590</widthMax>
+  <heightMax>1942</heightMax>
+  <color>0</color>
+  <reSize>-1</reSize>
+</CameraSetting>

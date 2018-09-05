@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>124</version>
+  <name>Mode 4</name>
+  <inspectEnabled>true</inspectEnabled>
+  <searchPositionRangeX>10</searchPositionRangeX>
+  <searchPositionRangeY>10</searchPositionRangeY>
+  <searchAngleRange>1</searchAngleRange>
+  <searchAngleStep>0.2</searchAngleStep>
+  <searchScaleMin>1</searchScaleMin>
+  <searchScaleMax>1</searchScaleMax>
+  <searchScaleStep>1</searchScaleStep>
+  <ptmSearchMode>0</ptmSearchMode>
+  <ptmBinaryThreshold>127</ptmBinaryThreshold>
+  <averageCount>0</averageCount>
+  <smoothParam1>3</smoothParam1>
+  <smoothParam2>3</smoothParam2>
+  <smoothParam3>20</smoothParam3>
+  <smoothParam4>1</smoothParam4>
+  <unsharpMask>1</unsharpMask>
+  <contrastCoef>8</contrastCoef>
+  <erodNum>1</erodNum>
+  <dilaNum>1</dilaNum>
+  <binaryAllThreshold>30</binaryAllThreshold>
+  <binaryRedThreshold>30</binaryRedThreshold>
+  <binaryGreenThreshold>30</binaryGreenThreshold>
+  <binaryBlueThreshold>30</binaryBlueThreshold>
+  <blobMinAreaThreshold>10</blobMinAreaThreshold>
+  <blobMaxAreaThreshold>200000</blobMaxAreaThreshold>
+  <matchRateThreshold>96</matchRateThreshold>
+  <diffThreshold>200</diffThreshold>
+  <matchRateNG_UnderOver>0</matchRateNG_UnderOver>
+  <diffNG_UnderOver>1</diffNG_UnderOver>
+</Preset>

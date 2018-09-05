@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SystemSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <configName>config.xml</configName>
+  <selectCameraNo>0</selectCameraNo>
+  <selectModel>the third</selectModel>
+  <listviewErrOnly>false</listviewErrOnly>
+  <reverseX>false</reverseX>
+  <reverseY>false</reverseY>
+  <password0 />
+  <password1 />
+  <autoTrim>false</autoTrim>
+  <autoCut>false</autoCut>
+  <curImagePath>C:\almedio\AAC1000\data</curImagePath>
+  <curCsvPath>C:\almedio\AAC1000\data\csv</curCsvPath>
+  <keyStart>false</keyStart>
+  <autoDevW>1</autoDevW>
+  <autoDevH>1</autoDevH>
+  <rotation90>false</rotation90>
+  <rotation270>false</rotation270>
+  <bcdEnabled>false</bcdEnabled>
+  <fileWatch>false</fileWatch>
+  <testInterval>3000</testInterval>
+  <numberDisp>false</numberDisp>
+</SystemSetting>

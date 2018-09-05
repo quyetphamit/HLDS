@@ -1,0 +1,209 @@
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+C:\_projects\c#\vision\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_projects\c#\vision\eyetracker\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csprojResolveAssemblyReference.cache
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+C:\Users\u10959\Downloads\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\PylonC.NET.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csprojResolveAssemblyReference.cache
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\DirectShowLib-2005.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\log4net.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCvSharp.Blob.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCvSharp.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\cv210.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\cvaux210.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\cxcore210.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\ml210.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\opencv_ffmpeg210.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\highgui210.dll
+D:\VB 2010\Image Process\OpenCVWinForm\OpenCVWinForm\bin\Debug\OpenCvSharpExtern.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharpExtern.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharp.Extensions.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharp.Blob.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharp.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_calib3d2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_contrib2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_core2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_features2d2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg210.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_flann2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_gpu2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_highgui2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_imgproc2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_legacy2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ml2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_nonfree2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_objdetect2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ocl2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_photo2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_stitching2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_superres2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_video2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_videostab2410.dll
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csprojResolveAssemblyReference.cache
+D:\VB 2010\Image Process\Robot Vision\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.NGShow.resources
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharpExtern.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_calib3d2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_contrib2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_core2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_features2d2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg210.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_flann2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_gpu2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_highgui2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_imgproc2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_legacy2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ml2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_nonfree2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_objdetect2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ocl2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_photo2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_stitching2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_superres2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_video2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_videostab2410.dll
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.NGShow.resources
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharpExtern.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_calib3d2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_contrib2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_core2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_features2d2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg210.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_flann2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_gpu2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_highgui2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_imgproc2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_legacy2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ml2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_nonfree2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_objdetect2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ocl2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_photo2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_stitching2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_superres2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_video2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_videostab2410.dll
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csprojResolveAssemblyReference.cache
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.NGShow.resources
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\USB-Son\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharpExtern.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_calib3d2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_contrib2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_core2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_features2d2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg210.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_flann2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_gpu2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_highgui2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_imgproc2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_legacy2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ml2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_nonfree2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_objdetect2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ocl2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_photo2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_stitching2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_superres2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_video2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_videostab2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.NGShow.resources
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csprojResolveAssemblyReference.cache
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe.config
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.exe
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.pdb
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCvSharpExtern.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_calib3d2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_contrib2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_core2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_features2d2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg210.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ffmpeg2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_flann2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_gpu2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_highgui2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_imgproc2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_legacy2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ml2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_nonfree2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_objdetect2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_ocl2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_photo2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_stitching2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_superres2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_video2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\opencv_videostab2410.dll
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.exe
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\OpenCVWinForm.pdb
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.MainForm.resources
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.NGShow.resources
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.Properties.Resources.resources
+D:\Quyet\HLDS\Kiem tra oc cua HLDS 1002\OpenCVWinForm V1\OpenCVWinForm\obj\x86\Debug\OpenCVWinForm.csproj.GenerateResource.Cache

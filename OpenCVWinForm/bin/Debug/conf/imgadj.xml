@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ImageAdjust xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <autoCsvSave>false</autoCsvSave>
+  <autoPrint>false</autoPrint>
+  <autoSave>false</autoSave>
+  <bcdEnabled>false</bcdEnabled>
+  <bcdLock>false</bcdLock>
+  <bcdTrigger>false</bcdTrigger>
+  <csvSavePath>D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\data\csv\</csvSavePath>
+  <imageBilateralEnabled>true</imageBilateralEnabled>
+  <imageBilateralParam1>3</imageBilateralParam1>
+  <imageBilateralParam2>20</imageBilateralParam2>
+  <imageBilateralParam3>1</imageBilateralParam3>
+  <imageContrastCoef>5</imageContrastCoef>
+  <imageContrastEnabled>true</imageContrastEnabled>
+  <imageLocationOffsetX>0</imageLocationOffsetX>
+  <imageLocationOffsetY>0</imageLocationOffsetY>
+  <imageOffsetAngle>0</imageOffsetAngle>
+  <imageOffsetMode>1</imageOffsetMode>
+  <imageOffsetScale>1</imageOffsetScale>
+  <imageOffsetScore>0</imageOffsetScore>
+  <imageSavePath>D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\image</imageSavePath>
+  <imageSeachOffsetX>100</imageSeachOffsetX>
+  <imageSeachOffsetY>100</imageSeachOffsetY>
+  <imageSmoothEnabled>true</imageSmoothEnabled>
+  <imageSmoothParam1>3</imageSmoothParam1>
+  <imageSmoothParam2>3</imageSmoothParam2>
+  <imageSmoothParam3>3</imageSmoothParam3>
+  <imageSmoothParam4>3</imageSmoothParam4>
+  <imageSmoothType>3</imageSmoothType>
+  <imageTeachOffsetX>0</imageTeachOffsetX>
+  <imageTeachOffsetY>0</imageTeachOffsetY>
+  <imageUnsharpEnabled>true</imageUnsharpEnabled>
+  <imageUnsharpMask>1</imageUnsharpMask>
+  <language>English</language>
+  <logSavePath />
+  <maxCsvCnt>10</maxCsvCnt>
+  <maxCsvFile>10</maxCsvFile>
+  <maxLatestImgSave>100</maxLatestImgSave>
+  <maxLogFile>365</maxLogFile>
+  <maxNgImgSave>100</maxNgImgSave>
+  <maxRefImgSave>100</maxRefImgSave>
+  <modelSavePath>D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\model\</modelSavePath>
+  <monFolderPath>D:\Quyet\HLDS\Kiem tra oc cua HLDS\OpenCVWinForm V1\OpenCVWinForm\bin\Debug\watch\</monFolderPath>
+  <printErrOnry>false</printErrOnry>
+  <soundNg>true</soundNg>
+  <soundPass>true</soundPass>
+  <soundType>0</soundType>
+  <version>127</version>
+</ImageAdjust>
